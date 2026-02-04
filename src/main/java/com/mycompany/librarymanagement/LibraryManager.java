@@ -2,7 +2,7 @@ package com.mycompany.librarymanagement;
 
 import java.util.ArrayList; 
 import java.util.List; 
-public class LibraryManagement { 
+public class LibraryManager { 
  private List<Book> books = new ArrayList<>(); 
  public void addBook(Book book) { 
  books.add(book); 
